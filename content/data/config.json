@@ -61,7 +61,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "#https://twitter.com/@MKant1620",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
