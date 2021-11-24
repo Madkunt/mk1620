@@ -13,6 +13,8 @@ sections:
         label: Name
         default_value: Your name
         is_required: true
+        options:
+          - lorem-ipsum
       - input_type: email
         name: email
         label: Email
