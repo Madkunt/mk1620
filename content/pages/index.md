@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: "\U0001F525MK1620\U0001F525"
     content: >
-      > From demolition and decommission right the way through to recommission.
-      Destructive Development 
+      From demolition and decommission right the way through to recommission.
+      Destructive Development
   - section_id: about
     type: section_content
     title: About
